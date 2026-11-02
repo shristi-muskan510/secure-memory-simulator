@@ -1,0 +1,26 @@
+# Compiled files
+*.o
+*.out
+*.dylib
+*.so
+*.a
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
+
+# Sensitive files
+.env
+*.pem
+*.key
